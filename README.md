@@ -4,7 +4,7 @@
 
 - <b>Active Directory: Home Lab (virtual machine)</b>
   - [Active Directory Bulk User Creation](https://github.com/jmart375/Active-directory)
-  - [Setting Up pfSense on VirtualBox:](https://github.com/jmart375/Active-directory)
+  - [Setting Up pfSense on VirtualBox](https://github.com/jmart375/Active-directory)
  
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
