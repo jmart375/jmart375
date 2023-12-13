@@ -2,9 +2,11 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Active Directory: Home Lab (virtual machine)</b>
+- <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/jmart375/Active-directory)
+- <b>Tools</b>
   - [Setting Up pfSense on VirtualBox](https://github.com/jmart375/pfSense)
+- <b>Virtualization</b>
   - [VirtualBox Virtual Machine Setup](https://github.com/jmart375/VirtualBox-Virtual-Machine-Setup-Project)
  
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
