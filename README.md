@@ -9,7 +9,7 @@
     
 - <b>Open Source Tools</b>
   - [Setting Up pfSense on VirtualBox](https://github.com/jmart375/pfSense)
-  - [Autopsy Computer Software Project](https://github.com/jmart375/pfSense)
+  - [Autopsy Computer Software Project](https://github.com/jmart375/Autopsy)
 - <b>Virtualization</b>
   - [VirtualBox Virtual Machine Setup](https://github.com/jmart375/VirtualBox-Virtual-Machine-Setup-Project)
  
