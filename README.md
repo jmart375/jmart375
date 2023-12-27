@@ -12,7 +12,7 @@
   - [Autopsy Computer Software Project](https://github.com/jmart375/Autopsy)
  
 - <b>Tools</b>
-- [Nessus Vulnerability Scanner](https://github.com/jmart375/Nessus)
+  - [Nessus Vulnerability Scanner](https://github.com/jmart375/Nessus)
 
 - <b>Virtualization</b>
   - [VirtualBox Virtual Machine Setup](https://github.com/jmart375/VirtualBox-Virtual-Machine-Setup-Project)
