@@ -4,50 +4,52 @@
 
 ## PowerShell
 PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
+
   - [Active Directory Bulk User Creation](https://github.com/jmart375/Active-directory)
   - [JWipe (Disk Wiping Utility](https://github.com/jmart375/Jwipe.PoweShell)
   - [FIM (File Integrity Monitor)](https://github.com/jmart375/Powershell-Integrity-FIM)
 
 ## Network Security Monitoring Tools
-  - These tools are used to analyze network data and detect network-based threats.
+These tools are used to analyze network data and detect network-based threats.
   - [Splunk Technology](https://github.com/jmart375/Threat-Hunting-with-the-Splunk-SIEM)
  
 ## Penetration Testing
-  - Also known as "pen test", simulates an attack on a computer system in order to evaluate the 
-    security of that system.
-  - [Kali Linux - VirtualBox Machine Set Up](https://github.com/jmart375/VirtualBox-Virtual-Machine-Setup-Project)
+Also known as "pen test", simulates an attack on a computer system in order to evaluate the 
+security of that system.
+- [Kali Linux - VirtualBox Machine Set Up](https://github.com/jmart375/VirtualBox-Virtual-Machine-Setup-Project)
 
 ## Network Intrusion Detection
-  - An Intrusion Detection System (IDS) monitors network and system traffic for unusual or or       suspicious activity and notifies the administrator if a potential threat is detected. 
+An Intrusion Detection System (IDS) monitors network and system traffic for unusual or or       suspicious activity and notifies the administrator if a potential threat is detected. 
   - TBD; snort, security onion
  
 ## Packet Sniffers
-  - A packet sniffer, also called a packet analyzer, protocol analyzer or network analyzer, is      used to intercept, log, and analyze network traffic and data.
+A packet sniffer, also called a packet analyzer, protocol analyzer or network analyzer, is      used to intercept, log, and analyze network traffic and data.
   - TBD; wireshark
 
 ## Firewall Tools
-  - Firewalls prevent unauthorized users from accessing the company intranet and can be             implemented as hardware, software or a hybrid of the two..
+Firewalls prevent unauthorized users from accessing the company intranet and can be             implemented as hardware, software or a hybrid of the two..
   - [pfSense on Virtual Machine](https://github.com/jmart375/pfSense)
 
 ## Cyber Forensics
-  - Digital forensics is the process of recovering data from electronic devices, such as hard       drives and cell phones.
+Digital forensics is the process of recovering data from electronic devices, such as hard       drives and cell phones.
   - [Autopsy Project](https://github.com/jmart375/Autopsy)
 
 
 
 ## Vulnerability Assessment and Scanners
-  - Vulnerability scanners are valuable tools that search for and report on what known              vulnerabilities are present in an organization’s IT infrastructure. 
+Vulnerability scanners are valuable tools that search for and report on what known              vulnerabilities are present in an organization’s IT infrastructure. 
   - [Nessus Vulnerability Scanner](https://github.com/jmart375/Nessus)
+
+## Research Case Study
+  - [Case Study](https://github.com/jmart375/Case-Study)
 
 
 
 
 xxxxxxxxxxxxxxxxxxxxxx
 
-- <b>Case Study</b>
-  - [Case Study](https://github.com/jmart375/Case-Study)
+
     
-- <b>Open Source Tools</b>
   
 
 
@@ -70,22 +72,3 @@ xxxxxxxxxxxxxxxxxxxxxx
 
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-
-
-
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
