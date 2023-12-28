@@ -1,6 +1,6 @@
 <h1>Hi, I'm Josue! <br/><a href=>Cybersecurity Professional</a>
 
-<h2>👨‍💻 Projects:</h2>
+# 👨‍💻 Projects:
 
 ## PowerShell 
 
