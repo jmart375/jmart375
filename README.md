@@ -23,7 +23,7 @@ An Intrusion Detection System (IDS) monitors network and system traffic for unus
   - TBD; snort, security onion
  
 ## Packet Sniffers
-A packet sniffer, also called a packet analyzer, protocol analyzer or network analyzer, is      used to intercept, log, and analyze network traffic and data.
+A packet sniffer, also called a packet analyzer, protocol analyzer or network analyzer, is      used to intercept, log, and analyze network traffic and data. These are tools designed to capture and analyze packets transmitted over a network. They operate by intercepting and logging network traffic, allowing users to examine the contents of packets for various purposes.
   - TBD; wireshark
 
 ## Firewall Tools
