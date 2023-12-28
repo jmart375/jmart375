@@ -7,8 +7,8 @@
   - [JWipe (Disk Wiping Utility](https://github.com/jmart375/Jwipe.PoweShell)
   - [FIM (File Integrity Monitor)](https://github.com/jmart375/Powershell-Integrity-FIM)
 
-- <b>Open Source Tools</b>
-  - [Autopsy Computer Software Project](https://github.com/jmart375/Autopsy)
+- <b>Case Study</b>
+  - [Autopsy Computer Software Project](https://github.com/jmart375/Case-Study)
     
 - <b>Open Source Tools</b>
   - [Setting Up pfSense on VirtualBox](https://github.com/jmart375/pfSense)
