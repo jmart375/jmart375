@@ -7,9 +7,8 @@
 PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
 
   - [Active Directory](https://github.com/jmart375/Active-directory) Bulk User Creation
-  - [JWipe (Disk Wiping Utility](https://github.com/jmart375/Jwipe.PoweShell)
-  - [FIM (File Integrity Monitor)](https://github.com/jmart375/Powershell-Integrity-FIM)
-
+  - [JWipe](https://github.com/jmart375/Jwipe.PoweShell) (Disk Wiping Utility)
+  - [FIM](https://github.com/jmart375/Powershell-Integrity-FIM) (File Integrity Monitor)
 ## Network Security Monitoring Tools
 These tools are used to analyze network data and detect network-based threats.
   - [Splunk](https://github.com/jmart375/Threat-Hunting-with-the-Splunk-SIEM) Technology
