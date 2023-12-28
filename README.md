@@ -34,8 +34,6 @@ Firewalls prevent unauthorized users from accessing the company intranet and can
 Digital forensics is the process of recovering data from electronic devices, such as hard       drives and cell phones.
   - [Autopsy Project](https://github.com/jmart375/Autopsy)
 
-
-
 ## Vulnerability Assessment and Scanners
 Vulnerability scanners are valuable tools that search for and report on what known              vulnerabilities are present in an organization’s IT infrastructure. 
   - [Nessus Vulnerability Scanner](https://github.com/jmart375/Nessus)
