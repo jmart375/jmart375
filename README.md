@@ -42,6 +42,12 @@ Vulnerability scanners are valuable tools that search for and report on what kno
 The NIST Cybersecurity Framework (CSF) is a set of guidelines, best practices, and standards developed by the National Institute of Standards and Technology (NIST) to help organizations manage and improve their cybersecurity risk management processes.
 - [NIST](https://github.com/jmart375/Cybersecurity-Framework-NIST)
 - Information Security Plan [(ISP)](https://github.com/jmart375/Cybersecurity-Framework-NIST)
+
+## System Hardening
+System hardening in cybersecurity refers to the process of securing a computer system by reducing its attack surface and minimizing vulnerabilities. The goal is to make the system more resistant to unauthorized access, attacks, and potential exploits. System hardening involves implementing a set of best practices, security configurations, and measures to enhance the overall security posture of the system. 
+- Security Technical Implementation Guide [(STIG)](https://github.com/jmart375/STIG) and STIG     Viewer App
+- [SCAP](https://github.com/jmart375/SCAP) Compliance Checker
+
 ## Research Case Study
   - [Case Study](https://github.com/jmart375/Case-Study)
 
