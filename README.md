@@ -8,7 +8,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/jmart375/Powershell-Integrity-FIM)
 
 - <b>Case Study</b>
-  - [Autopsy Computer Software Project](https://github.com/jmart375/Case-Study)
+  - [Case Study](https://github.com/jmart375/Case-Study)
     
 - <b>Open Source Tools</b>
   - [Setting Up pfSense on VirtualBox](https://github.com/jmart375/pfSense)
