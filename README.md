@@ -12,7 +12,8 @@ Firewalls prevent unauthorized users from accessing the company intranet and can
     
 ## Network Intrusion Detection
 An Intrusion Detection System (IDS) monitors network and system traffic for unusual or or       suspicious activity and notifies the administrator if a potential threat is detected. 
-  - TBD; snort, security onion
+  - [Snort IDS](https://github.com/jmart375/Snort-IDS/tree/main)
+  - TBD; security onion
     
 ## Network Security Monitoring Tools
 These tools are used to analyze network data and detect network-based threats.
