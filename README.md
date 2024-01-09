@@ -2,58 +2,56 @@
 
 # 👨‍💻 Projects:
 
-## PowerShell 
-
-PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
-
-  - [Active Directory](https://github.com/jmart375/Active-directory) Bulk User Creation
-  - [JWipe](https://github.com/jmart375/Jwipe.PoweShell) (Disk Wiping Utility)
-  - [FIM](https://github.com/jmart375/Powershell-Integrity-FIM) (File Integrity Monitor)
-## Network Security Monitoring Tools
-These tools are used to analyze network data and detect network-based threats.
-  - [Splunk](https://github.com/jmart375/Threat-Hunting-with-the-Splunk-SIEM) Technology
- 
-## Penetration Testing
-Also known as "pen test", simulates an attack on a computer system in order to evaluate the 
-security of that system.
-- [Kali Linux](https://github.com/jmart375/VirtualBox-Virtual-Machine-Setup-Project) VirtualBox Machine Set Up
-
-## Network Intrusion Detection
-An Intrusion Detection System (IDS) monitors network and system traffic for unusual or or       suspicious activity and notifies the administrator if a potential threat is detected. 
-  - TBD; snort, security onion
- 
-## Packet Sniffers
-A packet sniffer, also called a packet analyzer, protocol analyzer or network analyzer, is      used to intercept, log, and analyze network traffic and data. These are tools designed to capture and analyze packets transmitted over a network. They operate by intercepting and logging network traffic, allowing users to examine the contents of packets for various purposes.
-  - [Wireshark](https://github.com/jmart375/Wireshark/tree/main)
-
-## Firewall Tools
-Firewalls prevent unauthorized users from accessing the company intranet and can be             implemented as hardware, software or a hybrid of the two..
-  - [pfSense](https://github.com/jmart375/pfSense) on Virtual Machine
-
 ## Cyber Forensics
 Digital forensics is the process of recovering data from electronic devices, such as hard       drives and cell phones.
   - [Autopsy](https://github.com/jmart375/Autopsy) Project
 
-## Vulnerability Assessment and Scanners
-Vulnerability scanners are valuable tools that search for and report on what known              vulnerabilities are present in an organization’s IT infrastructure. 
-  - [Nessus](https://github.com/jmart375/Nessus) Vulnerability Scanner
+## Firewall Tools
+Firewalls prevent unauthorized users from accessing the company intranet and can be             implemented as hardware, software or a hybrid of the two..
+  - [pfSense](https://github.com/jmart375/pfSense) on Virtual Machine
+    
+## Network Intrusion Detection
+An Intrusion Detection System (IDS) monitors network and system traffic for unusual or or       suspicious activity and notifies the administrator if a potential threat is detected. 
+  - TBD; snort, security onion
+    
+## Network Security Monitoring Tools
+These tools are used to analyze network data and detect network-based threats.
+  - [Splunk](https://github.com/jmart375/Threat-Hunting-with-the-Splunk-SIEM) Technology
 
 ## NIST Cybersecurity Framework
 The NIST Cybersecurity Framework (CSF) is a set of guidelines, best practices, and standards developed by the National Institute of Standards and Technology (NIST) to help organizations manage and improve their cybersecurity risk management processes.
 - [NIST](https://github.com/jmart375/Cybersecurity-Framework-NIST)
 - Information Security Plan [(ISP)](https://github.com/jmart375/Cybersecurity-Framework-NIST)
+  
+## Packet Sniffers
+A packet sniffer, also called a packet analyzer, protocol analyzer or network analyzer, is      used to intercept, log, and analyze network traffic and data. These are tools designed to capture and analyze packets transmitted over a network. They operate by intercepting and logging network traffic, allowing users to examine the contents of packets for various purposes.
+  - [Wireshark](https://github.com/jmart375/Wireshark/tree/main)
+
+## Penetration Testing
+Also known as "pen test", simulates an attack on a computer system in order to evaluate the 
+security of that system.
+- [Kali Linux](https://github.com/jmart375/VirtualBox-Virtual-Machine-Setup-Project) VirtualBox Machine Set Up
+  
+## PowerShell 
+PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
+
+  - [Active Directory](https://github.com/jmart375/Active-directory) Bulk User Creation
+  - [JWipe](https://github.com/jmart375/Jwipe.PoweShell) (Disk Wiping Utility)
+  - [FIM](https://github.com/jmart375/Powershell-Integrity-FIM) (File Integrity Monitor)
+
+## Research Case Study
+  - [Case Study](https://github.com/jmart375/Case-Study)
 
 ## System Hardening
 System hardening in cybersecurity refers to the process of securing a computer system by reducing its attack surface and minimizing vulnerabilities. The goal is to make the system more resistant to unauthorized access, attacks, and potential exploits. System hardening involves implementing a set of best practices, security configurations, and measures to enhance the overall security posture of the system. 
 - Security Technical Implementation Guide [(STIG)](https://github.com/jmart375/STIG) and STIG     Viewer App
 - [SCAP](https://github.com/jmart375/SCAP) Compliance Checker
 
-## Research Case Study
-  - [Case Study](https://github.com/jmart375/Case-Study)
 
-
-
-
+## Vulnerability Assessment and Scanners
+Vulnerability scanners are valuable tools that search for and report on what known              vulnerabilities are present in an organization’s IT infrastructure. 
+  - [Nessus](https://github.com/jmart375/Nessus) Vulnerability Scanner
+    
 xxxxxxxxxxxxxxxxxxxxxx
 
 
