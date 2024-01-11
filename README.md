@@ -54,6 +54,7 @@ Is a structured approach to integrating security into the software development p
   - [Detailed Risk Analysis and Requirements](https://github.com/jmart375/Detailed-risk-analysis-and-requirements)
   - [Security Requirements](https://github.com/jmart375/Security-Requirements/tree/main)
   - [Detailed Threat Analysis](https://github.com/jmart375/Detailed-Threat-Analysis)
+  - [Security Risk Analysis](https://github.com/jmart375/Security-Risk-Analysis)
 
 ## Vulnerability Assessment and Scanners
 Vulnerability scanners are valuable tools that search for and report on what known              vulnerabilities are present in an organization’s IT infrastructure. 
