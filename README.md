@@ -32,7 +32,7 @@ A packet sniffer, also called a packet analyzer, protocol analyzer or network an
 Also known as "pen test", simulates an attack on a computer system in order to evaluate the 
 security of that system.
 - [Kali Linux](https://github.com/jmart375/VirtualBox-Virtual-Machine-Setup-Project) VirtualBox Machine Set Up
-- [Reconnaissance](https://github.com/jmart375/Reconnaissance/)
+- [Reconnaissance](https://github.com/jmart375/Reconnaissance/) involves actively or passively collecting information about a target's systems, networks, and online presence, serving as the initial phase in a cyber attack to identify vulnerabilities and plan subsequent actions.
   
 ## PowerShell 
 PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
