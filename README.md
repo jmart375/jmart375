@@ -52,9 +52,10 @@ System hardening in cybersecurity refers to the process of securing a computer s
 Is a structured approach to integrating security into the software development process. It aims to identify and address security issues early in the development life cycle, reducing the risk of vulnerabilities and enhancing overall system security.
   - [Business Enablers](https://github.com/jmart375/Business-Enablers/tree/main)
   - [Detailed Risk Analysis and Requirements](https://github.com/jmart375/Detailed-risk-analysis-and-requirements)
-  - [Security Requirements](https://github.com/jmart375/Security-Requirements/tree/main)
   - [Detailed Threat Analysis](https://github.com/jmart375/Detailed-Threat-Analysis)
+  - [Security Requirements](https://github.com/jmart375/Security-Requirements/tree/main)
   - [Security Risk Analysis](https://github.com/jmart375/Security-Risk-Analysis)
+  - [Implement an authentication and authorization server](https://github.com/jmart375/Creating-a-specification-for-a-software-system/blob/main/README.md)
 
 ## Vulnerability Assessment and Scanners
 Vulnerability scanners are valuable tools that search for and report on what known              vulnerabilities are present in an organization’s IT infrastructure. 
