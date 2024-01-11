@@ -48,7 +48,7 @@ System hardening in cybersecurity refers to the process of securing a computer s
 - Security Technical Implementation Guide [(STIG)](https://github.com/jmart375/STIG) and STIG     Viewer App
 - [SCAP](https://github.com/jmart375/SCAP) Compliance Checker
 
-## The Security Systems Development Life Cycle (SSDLC) 
+## Security Systems Development Life Cycle (SSDLC) - Research Case Study
 Is a structured approach to integrating security into the software development process. It aims to identify and address security issues early in the development life cycle, reducing the risk of vulnerabilities and enhancing overall system security.
   - [Business Enablers](https://github.com/jmart375/Business-Enablers/tree/main)
 
