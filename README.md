@@ -49,7 +49,17 @@ System hardening in cybersecurity refers to the process of securing a computer s
 - [SCAP](https://github.com/jmart375/SCAP) Compliance Checker
 
 ## Security Systems Development Life Cycle (SSDLC) - Research Case Study
-Is a structured approach to integrating security into the software development process. It aims to identify and address security issues early in the development life cycle, reducing the risk of vulnerabilities and enhancing overall system security.
+Developed cryptographically secure approaches to system engineering. The following actions were taken:
+1. Create an effective security architecture and corresponding evaluation strategy that addresses 
+an organization’s entire threat space
+2. Perform a Risk Assessment from detailed threat and risk analysis on an organization deriving a 
+detailed list of security requirements based on statutory and regulatory requirements coupled 
+with the aforementioned risk assessment
+3. Produce a specification for a system security control implementation 
+4. Implement an authentication and authorization server after performing an attack surface 
+analysis, then test the implemented security system so as to create an effective systems 
+monitoring plan for the installed server 
+5. Explain the fundamental considerations in systems disposal planning and execution
   - [Business Enablers](https://github.com/jmart375/Business-Enablers/tree/main)
   - [Detailed Risk Analysis and Requirements](https://github.com/jmart375/Detailed-risk-analysis-and-requirements)
   - [Detailed Threat Analysis](https://github.com/jmart375/Detailed-Threat-Analysis)
