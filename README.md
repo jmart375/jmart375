@@ -50,6 +50,7 @@ System hardening in cybersecurity refers to the process of securing a computer s
 - Security Technical Implementation Guide [(STIG)](https://github.com/jmart375/STIG) and STIG     Viewer App. The STIG and STIG Viewer App is dedicated to implementing robust security controls through comprehensive STIG configurations. The STIG Viewer App streamlines the review and application of STIG guidelines, facilitating efficient management of security compliance across diverse environments.
 
 - [SCAP](https://github.com/jmart375/SCAP) Compliance Checker utilized to systematically evaluate configurations, assess vulnerabilities, and provide real-time feedback, streamlining the process of maintaining a secure and compliant infrastructure.
+- [Linux COnfiguration Changes](https://github.com/jmart375/Linux-configuration-changes/tree/main)
 
 ## Security Systems Development Life Cycle (SSDLC) - Research Case Study
 Developed cryptographically secure approaches to system engineering. The following actions were taken:
