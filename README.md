@@ -74,6 +74,7 @@ monitoring plan for the installed server
 ## Vulnerability Assessment and Scanners
 Vulnerability scanners are valuable tools that search for and report on what known              vulnerabilities are present in an organization’s IT infrastructure. 
   - [Nessus](https://github.com/jmart375/Nessus) Vulnerability Scanner. Conducts thorough scans and provides detailed reports, this initiative empowers the organization to proactively address vulnerabilities, fortify its defenses, and maintain a robust cybersecurity posture.
+  - [Qualys](https://github.com/jmart375/Qualys/blob/main/README.md)
     
 xxxxxxxxxxxxxxxxxxxxxx
 
