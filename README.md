@@ -1,114 +1,140 @@
-<h1>Hi, I'm Josue! <br/><a href=>Cybersecurity Professional</a>
+<h1 align="center">Hi, I'm Josue 👋<br/>Cybersecurity Professional</h1>
 
-# 👨‍💻 Projects:
+<p align="center">
+  <strong>Cybersecurity Engineer | System Hardening | Incident Response | Forensics | Automation</strong>
+</p>
 
-## Cyber Forensics
-Digital forensics is the process of recovering data from electronic devices, such as hard       drives and cell phones.
-  - [Autopsy](https://github.com/jmart375/Autopsy) Project. Focuses on on dissecting and analyzing digital threats with surgical precision, employing advanced methodologies to uncover vulnerabilities and protect against cyber intrusions. 
+---
 
-## Firewall Tools
-Firewalls prevent unauthorized users from accessing the company intranet and can be             implemented as hardware, software or a hybrid of the two..
-  - [pfSense](https://github.com/jmart375/pfSense) on Virtual Machine. Ensures comprehensive protection against cyber threats, offering a secure barrier that effectively manages and monitors network traffic, safeguarding digital environments from potential vulnerabilities.
-    
-## Network Intrusion Detection
-An Intrusion Detection System (IDS) monitors network and system traffic for unusual or or       suspicious activity and notifies the administrator if a potential threat is detected. 
-  - [Snort IDS](https://github.com/jmart375/Snort-IDS/tree/main) is a intrusion detection, utilizing the powerful capabilities of Snort to meticulously monitor and analyze network traffic in real-time. 
-  - TBD; security onion
-    
-## Network Security Monitoring Tools
-These tools are used to analyze network data and detect network-based threats.
-  - [Splunk](https://github.com/jmart375/Threat-Hunting-with-the-Splunk-SIEM) Technology serves as an analytics platform to proactively detect and mitigate cyber threats. 
+# 📌 Featured Enterprise Projects (Must-See)
 
-## NIST Cybersecurity Framework
-The NIST Cybersecurity Framework (CSF) is a set of guidelines, best practices, and standards developed by the National Institute of Standards and Technology (NIST) to help organizations manage and improve their cybersecurity risk management processes.
-- [NIST](https://github.com/jmart375/Cybersecurity-Framework-NIST) focuses on promoting best practices, risk management, and resilience, ensuring that organizations can effectively navigate the ever-evolving cybersecurity landscape and safeguard their digital assets.
-- Information Security Plan [(ISP)](https://github.com/jmart375/Cybersecurity-Framework-NIST) Focused on risk assessment, incident response, and continuous improvement, the initiative aims to create and implement robust security plans that ensure the confidentiality, integrity, and availability of critical information assets.
-- Build, install and configure the [RADIUS Server](https://github.com/jmart375/Radius-Server/tree/main). Build access control policy. Model (Architect) the access control policy.
-  
-## Packet Sniffers
-A packet sniffer, also called a packet analyzer, protocol analyzer or network analyzer, is      used to intercept, log, and analyze network traffic and data. These are tools designed to capture and analyze packets transmitted over a network. They operate by intercepting and logging network traffic, allowing users to examine the contents of packets for various purposes.
-  - [Wireshark](https://github.com/jmart375/Wireshark/tree/main) facilitates in-depth network traffic inspection, protocol analysis, and threat detection, enabling organizations to enhance their cybersecurity posture and respond effectively to potential security incidents.
+## 🛡️ Design World — Enterprise Security Hardening Project
+*A complete end-to-end enterprise defense initiative.*
 
-## Penetration Testing
-Also known as "pen test", simulates an attack on a computer system in order to evaluate the 
-security of that system.
-- [Kali Linux](https://github.com/jmart375/VirtualBox-Virtual-Machine-Setup-Project) VirtualBox Machine Set Up
-- [Reconnaissance](https://github.com/jmart375/Reconnaissance/) involves actively or passively collecting information about a target's systems, networks, and online presence, serving as the initial phase in a cyber attack to identify vulnerabilities and plan subsequent actions.
-- [Enumeration, Scanning, Exploit](https://github.com/jmart375/Enumeration-Scanning-Exploit/tree/main) refers to the systematic process of discovering and identifying target system details, assessing vulnerabilities, and leveraging identified weaknesses to gain unauthorized access or control.
-  
-## PowerShell 
-PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.
+Includes:
+- ✔ Vulnerability Assessment & Penetration Testing  
+- ✔ STIG-Based Remediation (Windows, Ubuntu, Kali, CentOS)  
+- ✔ Server & Workstation Hardening  
+- ✔ Incident Response, Server Security & Remote Access Policies  
+- ✔ Project Change Requests (PCRs) for all OS types  
+- ✔ Full documentation + security architecture design
 
-  - [Active Directory](https://github.com/jmart375/Active-directory) Bulk User Creation. Streamlines and automates the process of user provisioning within an organization's directory services.
-  - [JWipe](https://github.com/jmart375/Jwipe.PoweShell) (Disk Wiping Utility) ensures the permanent and irretrievable removal of sensitive information from storage devices, meeting stringent data privacy and compliance requirements for organizations and individuals seeking thorough disk wiping capabilities.
-  - [FIM](https://github.com/jmart375/Powershell-Integrity-FIM) (File Integrity Monitor) enhances the security of digital systems by continuously monitoring and validating the integrity of critical files. It promptly detects any unauthorized changes or alterations, providing organizations with real-time alerts and ensuring the integrity and authenticity of essential files. 
+🔗 **Repo:**  
+👉 https://github.com/jmart375/Case-Study
 
-## Research Case Study
-  - [Case Study](https://github.com/jmart375/Case-Study). This comprehensive project involved multiple deliverables, including System and Security Requirements, Vulnerability Assessment, Penetration Testing, Security Hardening, and adherence to NIST SP800-171R2 regulations.
+---
 
-## System Hardening
-System hardening in cybersecurity refers to the process of securing a computer system by reducing its attack surface and minimizing vulnerabilities. The goal is to make the system more resistant to unauthorized access, attacks, and potential exploits. System hardening involves implementing a set of best practices, security configurations, and measures to enhance the overall security posture of the system. 
-- Security Technical Implementation Guide [(STIG)](https://github.com/jmart375/STIG) and STIG     Viewer App. The STIG and STIG Viewer App is dedicated to implementing robust security controls through comprehensive STIG configurations. The STIG Viewer App streamlines the review and application of STIG guidelines, facilitating efficient management of security compliance across diverse environments.
+# 📂 Technical Project Portfolio
 
-- [SCAP](https://github.com/jmart375/SCAP) Compliance Checker utilized to systematically evaluate configurations, assess vulnerabilities, and provide real-time feedback, streamlining the process of maintaining a secure and compliant infrastructure.
-- [Linux COnfiguration Changes](https://github.com/jmart375/Linux-configuration-changes/tree/main)
+## 🔍 Cyber Forensics
+- **Autopsy Forensics Investigation**  
+  In-depth artifact extraction, timeline analysis, and threat reconstruction.  
+  🔗 https://github.com/jmart375/Autopsy
 
-## Security Systems Development Life Cycle (SSDLC) - Research Case Study
-Developed cryptographically secure approaches to system engineering. The following actions were taken:
-1. Create an effective security architecture and corresponding evaluation strategy that addresses 
-an organization’s entire threat space
-2. Perform a Risk Assessment from detailed threat and risk analysis on an organization deriving a 
-detailed list of security requirements based on statutory and regulatory requirements coupled 
-with the aforementioned risk assessment
-3. Produce a specification for a system security control implementation 
-4. Implement an authentication and authorization server after performing an attack surface 
-analysis, then test the implemented security system so as to create an effective systems 
-monitoring plan for the installed server 
-5. Explain the fundamental considerations in systems disposal planning and execution
-  - [Business Enablers](https://github.com/jmart375/Business-Enablers/tree/main)
-  - [Detailed Risk Analysis and Requirements](https://github.com/jmart375/Detailed-risk-analysis-and-requirements)
-  - [Detailed Threat Analysis](https://github.com/jmart375/Detailed-Threat-Analysis)
-  - [Security Requirements](https://github.com/jmart375/Security-Requirements/tree/main)
-  - [Security Risk Analysis](https://github.com/jmart375/Security-Risk-Analysis)
-  - [Implement an authentication and authorization server](https://github.com/jmart375/Creating-a-specification-for-a-software-system/blob/main/README.md)
+---
 
-## Vulnerability Assessment and Scanners
-Vulnerability scanners are valuable tools that search for and report on what known              vulnerabilities are present in an organization’s IT infrastructure. 
-  - [Nessus](https://github.com/jmart375/Nessus) Vulnerability Scanner. Conducts thorough scans and provides detailed reports, this initiative empowers the organization to proactively address vulnerabilities, fortify its defenses, and maintain a robust cybersecurity posture.
-  - [Qualys](https://github.com/jmart375/Qualys/blob/main/README.md)
-  - [NMAP](https://github.com/jmart375/nmap/tree/main) is an open-source tool for network exploration and security auditing
-    
-xxxxxxxxxxxxxxxxxxxxxx
+## 🔥 Firewall & Network Defense
+- **pfSense Firewall Deployment**  
+  Enterprise-grade perimeter protection using pfSense on virtual infrastructure.  
+  🔗 https://github.com/jmart375/pfSense
 
-#  📂 Featured Projects:
+---
 
-## Design World Security Hardening Case Study
+## 🚨 Intrusion Detection & Network Monitoring
+- **Snort IDS**  
+  Real-time network threat detection using Snort rules and packet inspection.  
+  🔗 https://github.com/jmart375/Snort-IDS/tree/main  
+- **Security Onion (TBD)**
 
-Comprehensive hardening project including:
-- Vulnerability Assessment & Pen Testing  
-- STIG-Based Server & Workstation Hardening  
-- Security Policy Creation (IR, Remote Access, Server Security)  
-- Project Change Requests (PCRs) for Windows, Ubuntu, Kali, and CentOS  
-- Reduction of attack surface across enterprise subnets  
-  
+- **Splunk Threat Hunting Lab**  
+  Advanced SIEM analytics and detection engineering.  
+  🔗 https://github.com/jmart375/Threat-Hunting-with-the-Splunk-SIEM
 
+---
 
+## 🧰 Packet Analysis
+- **Wireshark Deep Packet Inspection**  
+  Protocol analysis, traffic investigation, and anomaly detection.  
+  🔗 https://github.com/jmart375/Wireshark
 
+---
 
+## 🎯 Penetration Testing
+- **Kali Linux Virtual Machine Setup**  
+  Configured for offensive security testing.  
+  🔗 https://github.com/jmart375/VirtualBox-Virtual-Machine-Setup-Project  
 
- 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- **Reconnaissance Toolkit**  
+  Information gathering & OSINT collection.  
+  🔗 https://github.com/jmart375/Reconnaissance  
 
+- **Enumeration, Scanning & Exploitation**  
+  Vulnerability discovery and exploitation workflow.  
+  🔗 https://github.com/jmart375/Enumeration-Scanning-Exploit
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+## ⚙️ PowerShell Automation & Security Tools
+- **Active Directory Bulk User Creation**  
+  Automates user provisioning and OU assignment.  
+  🔗 https://github.com/jmart375/Active-directory  
+
+- **JWipe — Disk Wiping Utility**  
+  Secure DoD-level data destruction.  
+  🔗 https://github.com/jmart375/Jwipe.PoweShell  
+
+- **File Integrity Monitor (FIM)**  
+  Detects unauthorized changes to critical system files.  
+  🔗 https://github.com/jmart375/Powershell-Integrity-FIM
+
+---
+
+## 🛠 System Hardening & Compliance
+- **DISA STIG Configurations**  
+  Hardened OS baselines & compliance scanning.  
+  🔗 https://github.com/jmart375/STIG  
+
+- **SCAP Compliance Checker**  
+  Automated configuration auditing & reporting.  
+  🔗 https://github.com/jmart375/SCAP  
+
+- **Linux Configuration Changes**  
+  Hardening measures for Ubuntu/CentOS environments.  
+  🔗 https://github.com/jmart375/Linux-configuration-changes
+
+---
+
+## 🧬 Security Systems Development Life Cycle (SSDLC)
+Developed cryptographically secure architecture, threat models, and risk assessments.
+
+Includes:
+1. Security Architecture & Evaluation Strategy  
+2. Organizational Risk Assessment  
+3. System Security Control Specification  
+4. Authentication & Authorization Server Implementation  
+5. System Disposal Strategy
+
+Repos:
+- Business Enablers — https://github.com/jmart375/Business-Enablers  
+- Detailed Risk Analysis — https://github.com/jmart375/Detailed-risk-analysis-and-requirements  
+- Threat Analysis — https://github.com/jmart375/Detailed-Threat-Analysis  
+- Security Requirements — https://github.com/jmart375/Security-Requirements  
+- Security Risk Analysis — https://github.com/jmart375/Security-Risk-Analysis  
+- Auth Server Implementation — https://github.com/jmart375/Creating-a-specification-for-a-software-system/
+
+---
+
+## 🛡 Vulnerability Scanning & Reporting
+- **Nessus Vulnerability Scanner**  
+  Enterprise VA scans and reporting.  
+  🔗 https://github.com/jmart375/Nessus  
+
+- **Qualys VM**  
+  Cloud-based vulnerability management.  
+  🔗 https://github.com/jmart375/Qualys  
+
+- **Nmap Network Mapper**  
+  Host discovery, service enumeration & security auditing.  
+  🔗 https://github.com/jmart375/nmap
+
+---
