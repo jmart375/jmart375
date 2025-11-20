@@ -22,9 +22,9 @@ Includes:
 🔗 **Repo:**  
 👉 https://github.com/jmart375/Case-Study
 
-## 🧭 NIST Cybersecurity Framework & Information Security Plan (ISP)
-
-A full compliance and governance project following NIST CSF, risk management, and enterprise security policy development.
+## 🧭 NIST Cybersecurity Framework & Information Security Plan (ISP) Project
+_
+__A full compliance and governance project following NIST CSF, risk management, and enterprise security policy development._
 
 Includes:
 
