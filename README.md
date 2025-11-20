@@ -22,6 +22,22 @@ Includes:
 🔗 **Repo:**  
 👉 https://github.com/jmart375/Case-Study
 
+## 🧭 NIST Cybersecurity Framework & Information Security Plan (ISP)
+
+A full compliance and governance project following NIST CSF, risk management, and enterprise security policy development.
+
+Includes:
+
+- ✔ NIST CSF risk management alignment  
+- ✔ Information Security Plan (ISP)  
+- ✔ Incident Response Planning  
+- ✔ Business Continuity & System Security  
+- ✔ RADIUS Server Build for Authentication & Access Control  
+
+🔗 **NIST CSF Project:** https://github.com/jmart375/Cybersecurity-Framework-NIST  
+🔗 **Information Security Plan (ISP):** https://github.com/jmart375/Information-Security-Plan  
+🔗 **RADIUS Server:** https://github.com/jmart375/RADIUS-Server
+
 ---
 
 # 📂 Technical Project Portfolio
