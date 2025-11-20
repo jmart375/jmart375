@@ -80,8 +80,16 @@ Vulnerability scanners are valuable tools that search for and report on what kno
     
 xxxxxxxxxxxxxxxxxxxxxx
 
+#  📂 Featured Projects:
 
-    
+## Design World Security Hardening Case Study
+
+Comprehensive hardening project including:
+- Vulnerability Assessment & Pen Testing  
+- STIG-Based Server & Workstation Hardening  
+- Security Policy Creation (IR, Remote Access, Server Security)  
+- Project Change Requests (PCRs) for Windows, Ubuntu, Kali, and CentOS  
+- Reduction of attack surface across enterprise subnets  
   
 
 
