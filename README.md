@@ -11,6 +11,7 @@
 A complete end-to-end enterprise defense initiative designed to strengthen organizational systems against real threats and enforce security best practices.
 
 Includes:
+
 ✔ Vulnerability Assessment & Penetration Testing  
 ✔ STIG-Based Remediation (Windows, Ubuntu, Kali, CentOS)  
 ✔ Server & Workstation Hardening  
@@ -26,6 +27,7 @@ Includes:
 A full compliance, governance, and risk management project that ensures organizations align with NIST standards while building resilient operational security policies.
 
 Includes:
+
 ✔ NIST CSF risk management alignment  
 ✔ Information Security Plan (ISP)  
 ✔ Incident Response Planning  
